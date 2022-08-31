@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "mua hàng1",
+      "author": "duy2323",
+      "id": 25
+    },
+    {
+      "title": "ádasd1213",
+      "author": "duy123545454",
+      "id": 28
+    },
+    {
+      "title": "phuong",
+      "author": "phuong 123",
+      "id": 29
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
